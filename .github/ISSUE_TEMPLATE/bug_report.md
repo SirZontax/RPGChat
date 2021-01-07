@@ -19,7 +19,7 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots or Logs (Use https://hastebin.com/ for Logs)**
+**Screenshots or Logs (Use https://hastebin.com/ for Logs or the Code Formatting)**
 If applicable, add screenshots or logs to help explain your problem.
 
 **Server (please complete the following information):**
