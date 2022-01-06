@@ -24,7 +24,7 @@ If applicable, add screenshots or logs to help explain your problem.
 
 **Server (please complete the following information):**
  - Version [e.g. 1.17.1]
- - Premium or Free Editon
+ - API-Type [e.g. Spigot]
  - Plugins with similar or same function
 
 **Additional context**
