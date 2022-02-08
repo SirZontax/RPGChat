@@ -23,9 +23,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots or logs to help explain your problem.
 
 **Server (please complete the following information):**
- - Version [e.g. 1.17.1]
- - API-Type [e.g. Spigot]
- - Plugins with similar or same function
+ - Version: [e.g. 1.17.1]
+ - API-Type: [e.g. Spigot]
+ - Plugins with similar or same function:
 
 **Additional context**
 Add any other context about the problem here.
