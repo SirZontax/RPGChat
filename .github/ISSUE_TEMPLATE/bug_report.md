@@ -19,13 +19,13 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots or Logs (Use https://hastebin.com/ for Logs or the Code Formatting)**
+**Screenshots or Logs (Use https://hastebin.com/ for Logs or the Code Formatting!)**
 If applicable, add screenshots or logs to help explain your problem.
 
 **Server (please complete the following information):**
  - Version: [e.g. 1.17.1]
  - API-Type: [e.g. Spigot]
- - Plugins with similar or same function:
+ - Plugins with similar or same function: 
 
 **Additional context**
 Add any other context about the problem here.
